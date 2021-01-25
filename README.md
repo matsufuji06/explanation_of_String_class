@@ -1,1 +1,4 @@
-# explanation_of_String_class
+### What
+新たにStringクラスを作成し。説明できるようにする。（※言語ごとの既存の"Stringクラス"は使用できない。）
+### Why
+面接のため
